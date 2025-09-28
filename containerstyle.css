@@ -1,0 +1,107 @@
+.container{
+    min-height: 90vh;
+    /* display: flex; */
+    overflow-y: scroll;
+}
+.text{
+    font-size: large;
+}
+.main{
+    display: flex;
+}
+
+.languages a {
+    text-decoration: none;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.5px solid black;
+}
+.Peafowl h2{
+    margin-top: 0px;
+}
+.top_2_left{
+    /* display: flex; */
+     justify-content: space-between;
+}
+.right{
+     display: flex;
+      justify-content: space-between;
+}
+
+
+.ch3{
+ display: flex;
+ justify-content: space-between;
+ border-bottom: 0.5px solid black;
+
+    
+    margin-bottom: 14px;
+
+    margin-top: 10px;
+    padding-bottom: 8px;
+
+
+}
+.right a{
+    text-decoration: none;
+}
+.top_2_left a{
+    text-decoration: none;
+}
+.text div{
+    display: flex;
+    /* border: 2px solid black; */
+}
+.p_text{
+    /* display: flex; */
+   justify-content: space-between;
+   margin-left: 14px;
+}
+.img img{
+    width: 273px;
+    height: 200px;
+}
+.img_contain{
+    border: 1px solid black;
+}
+.right_sidebar{
+    margin-top: 8px;
+    margin-left: 35px;
+   
+}
+.images{
+    width: 273px;
+    height: 150px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Magnificent_Peafowl.jpg/500px-The_Magnificent_Peafowl.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+    
+}
+.photo{
+    width: 273px;
+    height: 347px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Female_Pefowl_001.jpg/500px-Female_Pefowl_001.jpg);
+
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.div_12 h4{
+    margin: 0px;
+}
+.Cladistically{
+    margin-bottom: 30px;
+    background: rgb(235, 235, 210);
+}
+
+.classification{
+   background: rgb(235, 235, 210);
+}
+.img_text{
+    margin-left: 15px;
+    background: rgb(235, 235, 210);
+}
+
+
